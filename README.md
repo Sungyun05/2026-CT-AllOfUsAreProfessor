@@ -22,7 +22,9 @@ MyEscapeGame/
  │    ├── backgrounds
  │    ├── characters
  │    ├── items
- │    └── ...
+ │    └── sounds
+ |    |__ ui
+ |__script
  ├── main.py
  ├── settings.py
  ├── game_state.py
